@@ -11,7 +11,6 @@ Testing and Validation
 Troubleshooting
 Future Improvements
 Contributing
-License
 Acknowledgements
 Introduction
 This project involves the design and implementation of a Printed Circuit Board (PCB) USB bus with multiple USB ports stemming from a single USB connection. The objective is to create a functional and reliable USB hub that can expand a single USB port into several, providing connectivity for multiple USB devices.
@@ -62,9 +61,6 @@ Additional Ports: Expand the design to include more USB ports.
 Integrated Enclosure: Design a custom enclosure to protect the PCB and components.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or fixes. Ensure your code follows the project's style guidelines and includes appropriate documentation.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 Thanks to HackClub for the design and implementation.
